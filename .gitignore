@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 todo_project/todo_project/site.db
+
+# Local reports
+reports/*.tmp
+reports/*.log
